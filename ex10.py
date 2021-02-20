@@ -23,4 +23,5 @@ print(fat_cat)
 print(single_quote_cat)
 print(double_quote_cat.replace('\n', ''))
 print(bell_cat.replace('\n', ''))
-print(backspace_cat)
+print("If I'm wrote a mistakee\b on word 'mistake', I can"
+" use the '\\b' ascii backspace to correct my error.")
