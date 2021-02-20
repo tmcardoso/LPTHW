@@ -14,6 +14,7 @@ double_quote_cat = """I don't like to use double quotes on
 my sentences, it makes them \"cocky\". """
 bell_cat = """I don't know what '\\a' do. \aPlease tell me.
  I already know it! It's a cat that makes sound!!!"""
+backspace_cat = '\b'
 
 print(tabby_cat)
 print(persian_cat)
